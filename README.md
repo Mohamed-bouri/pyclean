@@ -1,12 +1,14 @@
 # PyClean
 
 ```text
-  ____  _   _ _____     ____ _     _____    _    _   _ 
- |  _ \| | | |  ___|   / ___| |   | ____|  / \  | \ | |
- | |_) | | | | |_     | |   | |   |  _|   / _ \ |  \| |
- |  __/| |_| |  _|    | |___| |___| |___ / ___ \| |\  |
- |_|    \___/|_|       \____|_____|_____/_/   \_\_| \_|
-                                          By M-Bouri
+(  _`\        (  _`\ (_ )                      
+| |_) ) _   _ | ( (_) | |    __     _ _   ___  
+| ,__/'( ) ( )| |  _  | |  /'__`\ /'_` )/' _ `\
+| |    | (_) || (_( ) | | (  ___/( (_| || ( ) |
+(_)    `\__, |(____/'(___)`\____)`\__,_)(_) (_)
+       ( )_| |                                 
+       `\___/'                      By M-Bouri            
+                                         
 ```
 
 > An interactive command-line file cleaner with an Arabic-language interface, a bit-safe trash bin instead of permanent deletion, and dry-run preview by default.
@@ -105,13 +107,14 @@ PyClean [real mode - moves to trash] > ext tmp log
 ```
 $ python3 pyclean.py -p ./downloads
 
-  ____  _   _ _____     ____ _     _____    _    _   _ 
- |  _ \| | | |  ___|   / ___| |   | ____|  / \  | \ | |
- | |_) | | | | |_     | |   | |   |  _|   / _ \ |  \| |
- |  __/| |_| |  _|    | |___| |___| |___ / ___ \| |\  |
- |_|    \___/|_|       \____|_____|_____/_/   \_\_| \_|
-                                          By M-Bouri
-
+(  _`\        (  _`\ (_ )                      
+| |_) ) _   _ | ( (_) | |    __     _ _   ___  
+| ,__/'( ) ( )| |  _  | |  /'__`\ /'_` )/' _ `\
+| |    | (_) || (_( ) | | (  ___/( (_| || ( ) |
+(_)    `\__, |(____/'(___)`\____)`\__,_)(_) (_)
+       ( )_| |                                 
+       `\___/'                      By M-Bouri            
+                                         
  Current directory: /home/user/downloads
  Type 'help' to see the list of available commands.
 
