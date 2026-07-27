@@ -1,6 +1,7 @@
 # PyClean
 
 ```text
+ ___           ___    _                        
 (  _`\        (  _`\ (_ )                      
 | |_) ) _   _ | ( (_) | |    __     _ _   ___  
 | ,__/'( ) ( )| |  _  | |  /'__`\ /'_` )/' _ `\
@@ -8,6 +9,7 @@
 (_)    `\__, |(____/'(___)`\____)`\__,_)(_) (_)
        ( )_| |                                 
        `\___/'                      By M-Bouri            
+                                         
                                          
 ```
 
@@ -106,7 +108,7 @@ PyClean [real mode - moves to trash] > ext tmp log
 
 ```
 $ python3 pyclean.py -p ./downloads
-
+ ___           ___    _                        
 (  _`\        (  _`\ (_ )                      
 | |_) ) _   _ | ( (_) | |    __     _ _   ___  
 | ,__/'( ) ( )| |  _  | |  /'__`\ /'_` )/' _ `\
@@ -114,6 +116,7 @@ $ python3 pyclean.py -p ./downloads
 (_)    `\__, |(____/'(___)`\____)`\__,_)(_) (_)
        ( )_| |                                 
        `\___/'                      By M-Bouri            
+                                                 
                                          
  Current directory: /home/user/downloads
  Type 'help' to see the list of available commands.
