@@ -158,4 +158,4 @@ PyClean [real mode - moves to trash] > restore
 
 ## License
 
-No license file included with this submission — add one (e.g. MIT) before publishing if you'd like others to be clear on usage terms.
+Distributed under the **MIT License**. See `LICENSE` for details.
